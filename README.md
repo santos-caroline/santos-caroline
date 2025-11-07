@@ -1,7 +1,8 @@
+<h2> ⚠️ Perfil em período de organização ⚠️ <h2></h3>
 <h3>💫 Estou em processo de transição de carreira para a área de desenvolvimento de software, que é algo que sempre tive interesse e curiosidade em aprender. 
 Atualmente faço uma segunda graduação em Tecnologia da Informação pela UNIVESP e tenho me dedicado a um bootcamp sobre desenvolvimento utilizando python. 
 Minha atual meta é aprimorar minha lógica codando, além de desenvolver, em um futuro curso, habilidades na criação de APIs e banco de dados.
-<div></div> Bem vindos ao meu registro de aprendizagem!! Caso queiram deixar dicas e criticas construtivas fiquem a vontade!! ✨<h3></h3> 
+<div></div> Bem vindos ao meu registro de aprendizagem!! Caso queiram deixar dicas e críticas construtivas fiquem a vontade!! ✨<h3></h3> 
 
 
 ## 🌐 Minhas redes:
