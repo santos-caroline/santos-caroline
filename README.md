@@ -31,7 +31,10 @@ Fiquem à vontade para deixar dicas e sugestões construtivas — serão muito b
   <img src="https://github-readme-stats.vercel.app/api?username=santos-caroline&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santos-caroline&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+<br>
+<br>
+<br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santos-caroline/santos-caroline/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santos-caroline/santos-caroline/output/pacman-contribution-graph.svg">
